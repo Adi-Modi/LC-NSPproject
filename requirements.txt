@@ -4,7 +4,6 @@ pandas
 seaborn   
 matplotlib   
 joblib  
-flask 
 gunicorn 
 scipy 
 imblearn
